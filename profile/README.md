@@ -10,9 +10,9 @@ From your desktop to your browser, phone, and notes - there's a sparkle for that
 
 | Project         | Description                                       |
 | --------------- | ------------------------------------------------- |
-| **[Android](https://github.com/sparkles-everywhere/sparkle-android)**  | A sparkle overlay for Android.                    |
+| **[Android](https://github.com/sparkles-everywhere/sparkle-android)**  | A Kotlin-based sparkle overlay for Android.                    |
 | **[Desktop](https://github.com/sparkles-everywhere/sparkle-desktop)** | A Python-based desktop sparkle overlay.           |
-| **[Cursor](https://github.com/sparkles-everywhere/sparkle-cursor)**  | Sparkles that follow your mouse.                  |
+| **[Cursor](https://github.com/sparkles-everywhere/sparkle-cursor)**  | Python-based sparkles that follow your mouse.                  |
 | **[Web](https://github.com/sparkles-everywhere/sparkle-userscript)**      | A userscript that brings sparkles to the browser. |
 | **[ObsidianMD](https://github.com/sparkles-everywhere/sparkle-obsidian)** | A sparkle plugin for your notes.                  |
 
